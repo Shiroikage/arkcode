@@ -19,7 +19,7 @@ def word_in(a):
 
 
 def main():
-    line = input("Enter words and seperate with SPACE\n")
+    line = input("Enter words and separate with SPACE\n")
     i = 0
     j = 0
     final = []
