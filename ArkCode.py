@@ -38,7 +38,7 @@ def main():
                     file.write('w')
                 j = j + 1
         else:
-            file.write(' ')
+            file.write(' \n')
             print("NEW WORD")
             j = j + 1
         i = i+1
